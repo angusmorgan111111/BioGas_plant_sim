@@ -1,7 +1,7 @@
-feed_name,rate,dm_perc,vs_perc,gas_yeild,meth_perc,digest_reduction_factor
-slurry,18500,8,80,10,10,60
-fym,6000,30,80,10,10,60
-poulty_litter,9000,40,75,10,10,60
-rape_straw,6000,89,85,10,10,60
-daf_sludges,2500,20,90,10,10,60
-wc_silage,6000,27,91,10,10,60
+feed_name,rate,dm_perc,vs_perc,gas_yield,meth_perc,digest_reduction_factor
+slurry,18500,8,80,10,10,50
+fym,6000,30,80,10,10,50
+poulty_litter,9000,40,75,10,10,50
+rape_straw,6000,89,85,10,10,50
+daf_sludges,2500,20,90,10,10,50
+wc_silage,6000,27,91,10,10,50
