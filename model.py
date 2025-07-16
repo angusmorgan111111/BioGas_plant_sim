@@ -1,3 +1,9 @@
+# /// script
+# requires-python = ">=3.12"
+# dependencies = [
+#     "pandas",
+# ]
+# ///
 from dataclasses import dataclass
 
 import pandas as pd
