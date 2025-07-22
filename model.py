@@ -1,7 +1,10 @@
 # /// script
 # requires-python = ">=3.12"
 # dependencies = [
-#     "pandas",
+#     
+
+
+"pandas",
 # ]
 # ///
 from dataclasses import dataclass
