@@ -1,0 +1,3 @@
+equipment_type,parameter,value,unit
+Gas_Upgrading,kWe_per_m3_Biogas,0.35,kWe/m3
+Gas_Upgrading,kWt_per_m3_Biogas,0.15,kWt/m3

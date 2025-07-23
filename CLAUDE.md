@@ -13,7 +13,12 @@ This is a biogas plant simulation written in Python that models the anaerobic di
 python model.py
 ```
 
-This will run the simulation and generate both console output and a PDF report (`biogas_simulation_report.pdf`).
+### Configuration GUI
+```bash
+python config_gui.py
+```
+
+The GUI provides an interactive interface to configure simulation parameters before running.
 
 ### Installing Dependencies
 ```bash
@@ -54,19 +59,27 @@ The simulation follows a sequential process model:
 
 - `model.py`: Main simulation logic with all process functions
 - `feed.csv`: Input feedstock data with material properties
+- `config_gui.py`: GUI application for configuring simulation parameters
 - `test_model.py`: Comprehensive test suite covering all functions and integration tests
-- `requirements.txt`: Python dependencies (pandas, matplotlib, reportlab)
+- `requirements.txt`: Python dependencies (pandas, matplotlib, reportlab, tkinter)
 
 ## New Features
 
-### PDF Report Generation
+### Configuration GUI
 
-The simulation now includes automatic PDF report generation:
+A comprehensive GUI application (`config_gui.py`) provides interactive configuration of simulation parameters:
 
-- **`generate_pdf_report()`**: Creates a formatted PDF with all simulation data
-- **`run_simulation_with_pdf()`**: Runs the complete simulation and generates a PDF report
-- Reports include formatted tables for each process stage, DM percentages, methane yield, and separation results
-- PDF files are generated with timestamp and professional formatting
+**Features:**
+- **Feedstock Configuration**: Modify intake volumes and properties for all feedstock types
+- **Mix Stage Parameters**: Configure clean water rate, recirculation fluid rate and DM percentage
+- **Separation Parameters**: Set sludge DM percentage and DM removal percentage
+- **Load/Save Configuration**: Import/export settings as JSON files
+- **Input Validation**: Ensures all parameters are valid before running simulation
+- **Direct Simulation**: Run simulation with configured parameters from the GUI
+
+**Tabs:**
+- **Feedstock & Water Inputs**: Combined view with feedstock parameters table and water addition controls (clean water rate, recirculation fluid rate and DM%)
+- **Separation Configuration**: Configure separation stage parameters (sludge DM%, DM removal%)
 
 ## Configuration
 

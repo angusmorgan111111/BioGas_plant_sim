@@ -1,7 +1,9 @@
-feed_name,rate,dm_perc,vs_perc,gas_yield,meth_perc,digest_reduction_factor
-slurry,18500,8,80,10,10,50
-fym,6000,30,80,10,10,50
-poulty_litter,9000,40,75,10,10,50
-rape_straw,6000,89,85,10,10,50
-daf_sludges,2500,20,90,10,10,50
-wc_silage,6000,27,91,10,10,50
+feed_name,rate,dm_perc,vs_perc,gas_yield,meth_perc,digest_reduction_factor,Crop_Residue_Waste,Solid_Liquid,Density
+slurry,18500.0,8.0,80.0,350.0,60.0,75.0,C,L,1.0
+fym,6000.0,30.0,30.0,450.0,58.0,75.0,W,S,0.6
+poulty_litter,9000.0,40.0,75.0,490.0,60.0,75.0,W,S,0.7
+rape_straw,1.0,89.0,85.0,10.0,57.0,75.0,R,S,0.6
+daf_sludges,2500.0,20.0,90.0,500.0,55.0,75.0,W,L,0.9
+wc_silage,18500.0,27.0,91.0,665.0,54.0,75.0,R,S,0.6
+clean_water,1000.0,0.0,0.0,0.0,0.0,0.0,W,L,1.0
+recirc_fluid,25000.0,5.0,0.0,0.0,0.0,0.0,W,L,1.0

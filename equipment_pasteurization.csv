@@ -1,0 +1,6 @@
+equipment_type,parameter,value,unit
+Pasteurization,No_Tanks,1.0,units
+Pasteurization,Usable_Volume,500.0,m3
+Pasteurization,Freeboard,0.3,m
+Pasteurization,Dia,8.0,m
+Pasteurization,Dome_Height_Percent,15.0,%

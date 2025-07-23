@@ -1,0 +1,5 @@
+equipment_type,parameter,value,unit
+Solid_Feeder,Volume,100.0,m3
+Solid_Feeder,Max_Fill,80.0,m3/h
+Solid_Feeder,Max_Empty,60.0,m3/h
+Batch_Mixer,Volume,150.0,m3

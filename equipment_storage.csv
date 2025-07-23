@@ -1,0 +1,6 @@
+equipment_type,parameter,value,unit
+Separated_Liquid_Store,No_Tanks,2.0,units
+Separated_Liquid_Store,Usable_Volume,3000.0,m3
+Separated_Liquid_Store,Freeboard,0.8,m
+Separated_Liquid_Store,Dia,18.0,m
+Separated_Liquid_Store,Dome_Height_Percent,18.0,%

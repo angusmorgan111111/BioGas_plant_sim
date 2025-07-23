@@ -1,0 +1,11 @@
+equipment_type,parameter,value,unit
+Primary_Digestion,No_Tanks,2.0,units
+Primary_Digestion,Usable_Volume,2500.0,m3
+Primary_Digestion,Freeboard,0.5,m
+Primary_Digestion,Dia,15.0,m
+Primary_Digestion,Dome_Height_Percent,20.0,%
+Secondary_Digestion,No_Tanks,1.0,units
+Secondary_Digestion,Usable_Volume,2500.0,m3
+Secondary_Digestion,Freeboard,0.5,m
+Secondary_Digestion,Dia,12.0,m
+Secondary_Digestion,Dome_Height_Percent,20.0,%

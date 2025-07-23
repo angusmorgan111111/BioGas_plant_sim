@@ -1,0 +1,7 @@
+equipment_type,parameter,value,unit
+Boiler_1,Fuel_Type,Biogas,type
+Boiler_1,kWt_Capacity,500.0,kWt
+Boiler_1,Efficiency,85.0,%
+Boiler_2,Fuel_Type,Natural_Gas,type
+Boiler_2,kWt_Capacity,300.0,kWt
+Boiler_2,Efficiency,90.0,%

@@ -1,0 +1,16 @@
+equipment_type,parameter,value,unit
+Stage_1,Present,True,boolean
+Stage_1,DM_Removal_Percent,60.0,%
+Stage_1,Sludge_DM,20.0,%
+Stage_1,Bunker_Length,20.0,m
+Stage_1,Bunker_Width,8.0,m
+Stage_2,Present,False,boolean
+Stage_2,DM_Removal_Percent,25.0,%
+Stage_2,Sludge_DM,20.0,%
+Stage_2,Bunker_Length,15.0,m
+Stage_2,Bunker_Width,6.0,m
+Stage_3,Present,False,boolean
+Stage_3,DM_Removal_Percent,20.0,%
+Stage_3,Sludge_DM,25.0,%
+Stage_3,Bunker_Length,12.0,m
+Stage_3,Bunker_Width,5.0,m

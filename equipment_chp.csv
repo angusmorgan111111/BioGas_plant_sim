@@ -1,0 +1,7 @@
+equipment_type,parameter,value,unit
+CHP1,Capacity_kWE,800.0,kWE
+CHP1,Efficiency,40.0,%
+CHP2,Capacity_kWE,600.0,kWE
+CHP2,Efficiency,38.0,%
+CHP3,Capacity_kWE,400.0,kWE
+CHP3,Efficiency,42.0,%
