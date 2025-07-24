@@ -1,0 +1,10 @@
+Source,Feedstock Name,DM,VS of DM,Biogas Yield VS,% CH4,Crop/Residue/Waste/Other,Density ,L/S,Digestion Reduction Factor,COD ,BOD,Total N,Am N ,Total P,Sol P ,Solid P,Total K 
+Unit,Name,%,%, (NM3/Tonne VS),%,, (T/M3),,% Digestion of VS, (kg / T input), (kg / T input), (g/T Input), (g/T Input, (kg / T input), (kg / T input), (kg / T input), (kg / T input)
+Training - Edner + Nutes. 2025,Cow Slurry,0.08,0.8,350,0.6,W,1,L,0.8,270144,45114.048,3,,2,0.3,1.7,10
+Training - Edner + Nutes. 2025,FYM,0.3,0.8,450,0.58,W,0.6,S,0.8,270144,45114.048,3,,2,0.3,1.7,10
+Training - Edner + Nutes. 2025,Poultry Litter ,0.4,0.75,490,0.6,W,0.8,S,0.8,509760,85129.92,37.5,5.84,6.3898,0.95847,5.43133,22.54
+Training - Edner + Nutes. 2025,Rape Straw,0.89,0.85,267,0.57,R,0.7,S,0.8,270144,45114.048,3,,2,0.3,1.7,10
+Training - Edner + Nutes. 2025,DAF Sludges,0.2,0.9,500,0.55,W,0.8,L,0.8,399000,66633,5.3,,1.52,0.228,1.292,6.34
+Training - Edner + Nutes. 2025,Maize Silage,0.27,0.91,665,0.54,C,0.7,S,0.8,421800,70440.6,5.3,,1.52,0.228,1.292,6.34
+Training - Edner + Nutes. 2026,Water ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Training - Edner + Nutes. 2027,Recirc,0.05,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
